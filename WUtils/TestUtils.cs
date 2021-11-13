@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WUtils
 {
-    public class Class1
+    public class TestUtils
     {
     }
 }
